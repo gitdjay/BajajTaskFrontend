@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "21BKT0045",
-  description: "Bajaj Task",
+  description: "Bajaj Task Frontend",
 };
 
 export default function RootLayout({ children }) {
